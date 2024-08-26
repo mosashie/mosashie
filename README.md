@@ -1,7 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<head>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</head>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="irshad-ahmad-30303724b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/irshad-ahmad-30303724b?trk=profile-badge">Irshad ahmad</a></div>
+              
 <marquee><h1 align="center">Hi 👋, I'm Irshad Ahmad</h1></marquee>
 <h3 align="center">I m a strong programmer and learning constantly.</h3>
 <img align="left" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
