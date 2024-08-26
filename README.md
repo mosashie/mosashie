@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="irshad-ahmad-30303724b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/irshad-ahmad-30303724b?trk=profile-badge">Irshad ahmad</a></div>
+
               
 <marquee><h1 align="center">Hi 👋, I'm Irshad Ahmad</h1></marquee>
 <h3 align="center">I m a strong programmer and learning constantly.</h3>
